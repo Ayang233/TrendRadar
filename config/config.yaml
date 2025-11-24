@@ -121,8 +121,6 @@ platforms:
     name: "澎湃新闻"
   - id: "ifeng"
     name: "凤凰网"
-  - id: "fabucaijing-kuaixun"
-    name: "法布财经 快讯"
   - id: "cankaoxiaoxi"
     name: "参考消息"
   - id: "sputniknewscn"
